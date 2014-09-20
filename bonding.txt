@@ -1,0 +1,105 @@
+
+     C - O
+
+1 * C = 4
+1 * O = 6
+	-----
+	   10 valence electrons
+	    2 bonding electrons used so far
+	-----
+	    8 electrons remain
+
+C needs 6 more electrons
+give 6 electrons to C, give remaining 2 electrons to O
+
+	..
+	:C - O:
+	..
+	
+O still needs 4 more electrons
+make C-O bond a double bond
+
+	..
+	C = O:
+	..
+
+C has 8 electrons, O has 6 electrons
+make C=O bond a triple bond
+
+	
+	:C ≡ O:
+	
+C has 8 electrons, O has 8 electrons
+done.
+
+
+CO2
+
+1.	O - C - O
+
+1 * C =  4 valence
+2 * O = 12 valence
+      ----
+	    16 valence
+	  -  4 bonding
+	  ----
+	    12 remaining
+		
+O1 needs 6
+C needs  4
+O2 needs 6
+		--
+		16
+		
+2. Assign electrons naively
+
+   ..  ..   ..
+   :O - C - O
+   ..  ..
+   
+O2 still needs 4 more electrons
+options
+	a. give O2 2 from C
+	b. share 2 between C and O2
+	c. give O2 2 from O1
+
+3a.								3b.					3c.
+   ..   ..  ..  				..       ..         ..  ..  ..
+   :O - C - O					:O - C = O			O - C - O
+   ..       ..					..       ..         ..  ..  ..
+
+
+C now needs 2					C needs 2			O1 and O2 each need 2 more
+options
+	share 2 between O1 and C
+
+3b. C needs 2
+share 2 between O1 and C
+
+   ..       ..
+    O = C = O
+   ..       ..
+
+	
+.
+.
+.
+.
+.
+.
+
+
+4.
+   ..   ..  ..
+    O = C - O
+   ..       ..
+
+O2 still needs 2
+share 2 between C and O2
+
+5.
+   ..       ..
+    O = C = O
+   ..       ..
+
+done.
